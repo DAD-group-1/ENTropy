@@ -1,0 +1,6 @@
+[submodule "ENTropy-Frontend"]
+	path = ENTropy-Frontend
+	url = git@github.com:DAD-group-1/ENTropy-Frontend.git
+[submodule "ENTropy-Backend"]
+	path = ENTropy-Backend
+	url = git@github.com:DAD-group-1/ENTropy-Backend.git
